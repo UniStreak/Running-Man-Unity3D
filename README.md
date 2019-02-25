@@ -1,4 +1,4 @@
-# Running-Man
+# Running-Man Unity Game
 
 There is a wood man that is our main character. Wood man tries to go as far as he can go. He needs to use bonus barrels for maximum distance.
 
